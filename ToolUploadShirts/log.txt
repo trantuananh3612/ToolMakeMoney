@@ -1,0 +1,40 @@
+7/9/2023 3:29:04 PM - element not interactable
+  (Session info: chrome=114.0.5735.199)
+7/9/2023 3:30:01 PM - element not interactable
+  (Session info: chrome=114.0.5735.199)
+7/9/2023 3:30:36 PM - element not interactable
+  (Session info: chrome=114.0.5735.199)
+7/9/2023 3:45:36 PM - no such element: Unable to locate element: {"method":"link text","selector":"Log in"}
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+7/9/2023 3:48:01 PM - Đăng nhập thành công!
+7/9/2023 3:48:38 PM - Đăng nhập thành công!
+7/9/2023 3:53:51 PM - Đăng nhập thành công!
+7/9/2023 3:54:14 PM - Đăng nhập thành công!
+7/9/2023 3:57:56 PM - Đăng nhập thành công!
+7/9/2023 4:02:51 PM - element not interactable
+  (Session info: chrome=114.0.5735.199)
+7/9/2023 4:03:39 PM - element not interactable
+  (Session info: chrome=114.0.5735.199)
+7/9/2023 4:05:17 PM - element not interactable
+  (Session info: chrome=114.0.5735.199)
+7/9/2023 4:07:49 PM - Đăng nhập thành công!
+7/9/2023 4:08:24 PM - element not interactable
+  (Session info: chrome=114.0.5735.199)
+7/9/2023 4:10:32 PM - element not interactable
+  (Session info: chrome=114.0.5735.199)
+7/9/2023 4:11:26 PM - element not interactable
+  (Session info: chrome=114.0.5735.199)
+7/9/2023 4:11:28 PM - no such element: Unable to locate element: {"method":"link text","selector":"Upload Art"}
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+7/9/2023 4:13:19 PM - Đăng nhập thành công!
+7/9/2023 4:13:46 PM - Compound class names not allowed. Cannot have whitespace in class name. Use CSS selectors instead.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+7/9/2023 4:26:28 PM - element not interactable
+  (Session info: chrome=114.0.5735.199)
+7/9/2023 4:26:28 PM - no such element: Unable to locate element: {"method":"link text","selector":"Upload Art"}
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+7/9/2023 4:26:56 PM - element not interactable
+  (Session info: chrome=114.0.5735.199)
+7/9/2023 4:26:56 PM - no such element: Unable to locate element: {"method":"link text","selector":"Upload Art"}
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+7/9/2023 4:27:39 PM - Đăng nhập thành công!
+7/9/2023 4:27:45 PM - Compound class names not allowed. Cannot have whitespace in class name. Use CSS selectors instead.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception

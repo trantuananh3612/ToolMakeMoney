@@ -1,0 +1,15 @@
+D:\ToolMakeMoney\ToolUploadShirts\ToolUploadShirts\obj\Debug\ToolUploadShirtsPlus.Form1.resources
+D:\ToolMakeMoney\ToolUploadShirts\ToolUploadShirts\obj\Debug\ToolUploadShirts.Properties.Resources.resources
+D:\ToolMakeMoney\ToolUploadShirts\ToolUploadShirts\obj\Debug\ToolUploadShirts.csproj.GenerateResource.cache
+D:\ToolMakeMoney\ToolUploadShirts\ToolUploadShirts\obj\Debug\ToolUploadShirts.csproj.CoreCompileInputs.cache
+D:\ToolMakeMoney\ToolUploadShirts\ToolUploadShirts\bin\Debug\selenium-manager\linux\selenium-manager
+D:\ToolMakeMoney\ToolUploadShirts\ToolUploadShirts\bin\Debug\selenium-manager\macos\selenium-manager
+D:\ToolMakeMoney\ToolUploadShirts\ToolUploadShirts\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\ToolMakeMoney\ToolUploadShirts\ToolUploadShirts\bin\Debug\ToolUploadShirts.exe.config
+D:\ToolMakeMoney\ToolUploadShirts\ToolUploadShirts\bin\Debug\ToolUploadShirts.exe
+D:\ToolMakeMoney\ToolUploadShirts\ToolUploadShirts\bin\Debug\ToolUploadShirts.pdb
+D:\ToolMakeMoney\ToolUploadShirts\ToolUploadShirts\bin\Debug\WebDriver.dll
+D:\ToolMakeMoney\ToolUploadShirts\ToolUploadShirts\bin\Debug\WebDriver.Support.dll
+D:\ToolMakeMoney\ToolUploadShirts\ToolUploadShirts\obj\Debug\ToolUploadShirts.csproj.CopyComplete
+D:\ToolMakeMoney\ToolUploadShirts\ToolUploadShirts\obj\Debug\ToolUploadShirts.exe
+D:\ToolMakeMoney\ToolUploadShirts\ToolUploadShirts\obj\Debug\ToolUploadShirts.pdb
